@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/GlitchSecure/brand/main/wordmark/wordmark-black.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/GlitchSecure/brand/main/wordmark/wordmark-white.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/GlitchSecure/brand/main/wordmark/wordmark-with-background.svg)
 
 ## About
 We help secure products and infrastructure through real-time continuous security testing. 🛡 Passionate hackers pushing the limits of traditional pentesting.
