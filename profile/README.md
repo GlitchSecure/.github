@@ -1,7 +1,10 @@
 ![](https://raw.githubusercontent.com/GlitchSecure/brand/main/wordmark/wordmark-with-background.png)
 
-## About
-We help secure products and infrastructure through real-time continuous security testing. 🛡 Passionate hackers pushing the limits of traditional pentesting.
+# GlitchSecure - Real-time Continuous Security Testing
+
+GlitchSecure helps companies secure their products and infrastructure through real-time continuous security testing. 
+
+Learn more: [https://glitchsecure.com/](https://glitchsecure.com/)
 
 <!--
 
