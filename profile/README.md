@@ -4,7 +4,8 @@
 
 GlitchSecure helps companies secure their products and infrastructure through real-time continuous security testing. 
 
-Learn more: [https://glitchsecure.com/](https://glitchsecure.com/)
+- Learn more: [https://glitchsecure.com/](https://glitchsecure.com/)
+- Infrastructure Status: [https://status.glitchsecure.com/](https://status.glitchsecure.com/)
 
 <!--
 
